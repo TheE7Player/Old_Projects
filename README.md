@@ -17,7 +17,9 @@ This game has a scoring system (Based on money, don't ask why). Can you get all 
 
 
 # IO Panel (2018)  #
-ioPanel.zip is a project for income. It allows you to input payments and it will track the information. That's mostly it... funny enough.
+ioPanel.zip is a project for income. It allows you to input payments and it will track the information. 
+That's mostly it... funny enough.
+
 ![A demo of sample incomes and outcomes which you can favouritise!](https://raw.githubusercontent.com/TheE7Player/Old_Projects/master/images/ioPanel_image.png)
 
 # Word of Tanks Server Tracker (2019)  #
