@@ -31,7 +31,7 @@ This project isn't complete at it's finest and can be improved upon.
 ![A graph showing the players as a chart](https://raw.githubusercontent.com/TheE7Player/Old_Projects/master/images/wot_chart_server_image.png)
 
 # Web Scraping Project (2020) #
-With much interest with pythons "beautifulsoup" library - I made a choice to see if C# can do a thing!
+With much interest with pythons "beautifulsoup" library - I made a choice to see if C# can do such a thing!
 It uses [HTML Agility Pack](https://html-agility-pack.net/) to handle the process of scanning the html file...
 
 Target: My local cinemas webpage to look at the current films, [Link right here!](https://waterfrontcinema.savoysystems.co.uk/WaterfrontCinema.dll/)
